@@ -59,4 +59,4 @@ A: reshade-xhair is unlikely to be the issue. It's probably a ReShade issue. Goo
     4. Put this link `https://github.com/Midnoclose/reshade-xhair/archive/master.zip`, then click "Add".
     4. Click "OK" and exit the ReShade installer.
 
-5. Launch your game and open the ReShade overlay by pressing the "Home" key (or Shift-F2 for ReShade <4).
+2. Launch your game and open the ReShade overlay by pressing the "Home" key (or Shift-F2 for ReShade <4).
